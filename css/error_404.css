@@ -1,0 +1,165 @@
+/* CSS Document */
+
+h1, h2, ul, li .ups {
+	margin:0;
+	padding:0;
+}
+body {
+	background-color:#FFFFFF;
+}
+.espacio {
+	height:84px;
+}
+hr imagen_mp {
+	background-color:#333333;
+	width: 550px;
+	height: 0px;
+	margin-left:4px;
+	margin-top:10px;
+	float:left;
+	clear:both;
+}
+.imagen_lupa {
+	background-repeat:no-repeat;
+	width:190px;
+	/*height:130px;*/
+	float:left;
+	text-align: center;
+	margin-left: 0px;
+}
+.imagen_ups {
+	background-repeat:no-repeat;
+	width:220px;
+	height:120px;
+	float:left;
+	text-align: center;
+	margin-left: 0px;
+	margin-right: 4px;
+}
+.imagen_mp {
+	background-repeat:no-repeat;
+	width:382px;
+	height:55px;
+	float:left;
+	text-align: center;
+	margin-left: 0px;
+	margin-right: 0px;
+}
+.logo-mlb {
+	float:left;
+	cursor:pointer;
+	height:43px;
+	margin-top:13px;
+	width:166px;
+}
+.pagina-error-es, .pagina-error-pt {
+	left:50%;
+	margin-left:-300px;
+	margin-top:-70px;
+	position:absolute;
+	text-align:center;
+	top:50%;
+}
+.pagina-error-mp-es, .pagina-error-mp-pt {
+	left:50%;
+	margin-left:-300px;
+	margin-top:-70px;
+	position:absolute;
+	text-align:center;
+	top:50%;
+}
+.textos {
+	width:350px;
+	height:100px;
+	float:left;
+	text-align: left;
+}
+.textos_mp {
+	font-family:"trebuchet MS", Helvetica, sans-serif;
+	color:#333;
+	width:300px;
+	height:100px;
+	float:left;
+	text-align: left;
+	margin-top:0px;
+	padding-top:0px;
+	padding-left:6px;
+	clear:both;
+}
+.textos_mp h2 {
+	font-size:22px;
+	height:20px;
+	clear:both;
+	font-weight:normal;
+}
+.textos_mp h3 {
+	font-size:12px;
+	height:20px;
+	margin-top:-10px;
+	font-weight:normal;
+}
+.textos h2 {
+	font-family:"trebuchet MS", Helvetica, sans-serif;
+	font-size:22px;
+	color:#DC7B1C;
+	padding:42px 0px 0px 0px;
+	margin-bottom: 0px;
+	font-weight: normal;
+}
+.textos h3 {
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:14px;
+	color:#333333;
+	font-weight: normal;
+}
+.textos ul li {
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#333333;
+	font-weight: normal;
+	list-style:none;
+}
+.textos-ups {
+	width:350px;
+	height:100px;
+	float:left;
+	text-align: left;
+	margin-top:40px;
+}
+.textos-ups h2 {
+	font-family:"trebuchet MS", Helvetica, sans-serif;
+	font-size:22px;
+	color:#DC7B1C;
+	padding:42px 0px 0px 0px;
+	margin-bottom: 0px;
+	font-weight: normal;
+}
+.textos-ups h3 {
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:14px;
+	color:#333333;
+	font-weight: normal;
+}
+.ups {
+	font-family:"trebuchet MS", Helvetica, sans-serif;
+	font-size:110px;
+	color:#000099;
+	width:220px;
+	height:140px;
+	float:left;
+	margin-top:30px;
+	padding-right:5px;
+	letter-spacing:-8px;
+}
+#footer {
+	bottom:0;
+	margin:0 auto 10px;
+	position:fixed;
+	text-align:center;
+	width:94%;
+}
+.pagina-error-mp1-es, .pagina-error-mp1-pt {
+	width:500px;
+	margin: 0 auto;
+	margin-top:100px;
+}
